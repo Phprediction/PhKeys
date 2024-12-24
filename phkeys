@@ -1,1 +1,6 @@
-
+{
+  "valid_keys": [
+    "KEY1-XXXX-XXXX-XXXX",
+    "KEY2-XXXX-XXXX-XXXX"
+  ]
+}
